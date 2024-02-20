@@ -7,3 +7,7 @@ body{
     display: flex;
     justify-content: space-around;
 }
+
+.escapamento{
+    margin-left: 100px;
+}
