@@ -1,1 +1,1 @@
-alert("o natan e gay")
+alert("a vida e linda ")
