@@ -1,0 +1,1 @@
+alert("o natan e gay")
