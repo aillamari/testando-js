@@ -1,5 +1,5 @@
 function mudarCorTexto(){
-document.querySelector('#p1').style.color="red"
+document.querySelector("#p1").style.color="red"
 } 
 
 function mudarCorFundo(){
