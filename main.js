@@ -1,3 +1,3 @@
 function mudacortexto(){
-document.querySelector('#p1').Style.color="black"
+document.querySelector('#p1').Style.color="red"
 }
